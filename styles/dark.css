@@ -6,6 +6,7 @@
 
 :root.theme-dark {
   --rec: 1;
+  --hover-button: #FF007066;
   --color: #FF0070;
   --color-button: #FF0070;
   --cr-active-button: #FF0070;

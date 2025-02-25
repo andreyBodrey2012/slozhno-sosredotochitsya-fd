@@ -13,7 +13,7 @@ body {
   max-inline-size: 1440px;
   margin: 0 auto;
   font-size: 100%;
-  padding: 0;
+  padding: 0 auto;
 }
 
 h1,

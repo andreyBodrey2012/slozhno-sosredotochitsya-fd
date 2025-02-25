@@ -186,6 +186,7 @@
   display: grid;
   margin-top: 14%;
   height: 100vh;
+  margin-bottom: -10px;
 }
 
 .footer__title {
@@ -261,11 +262,12 @@
   
   .footer {
     margin-top: 73px;
+    margin-bottom: -20px;
   }
 
   .footer__title {
-    margin-top: 383px;
-    margin-bottom: 44%;
+    margin-top: 387px;
+    margin-bottom: 42%;
   }
 
   .header-title-text-first, .header-title-text {
@@ -344,7 +346,7 @@
   }
 
   .footer::after {
-    margin-top: calc(11% - 26px);
+    margin-top: calc(14% - 26px);
   }
 }
 

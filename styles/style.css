@@ -178,7 +178,7 @@
 
 .img {
   max-width: 100%;
-  margin-top: 3%;
+  margin-top: 10px;
   object-fit: cover;
 }
 
@@ -189,7 +189,7 @@
 }
 
 .footer__title {
-  margin-top: 225px;
+  margin-top: 233px;
   text-shadow: 2px 2px 0 var(--color);
   margin-bottom: 58%;
   justify-self: center;
@@ -264,7 +264,7 @@
   }
 
   .footer__title {
-    margin-top: 373px;
+    margin-top: 383px;
     margin-bottom: 44%;
   }
 
@@ -315,21 +315,20 @@
     column-gap: 20px;
     row-gap: 20px;
     overflow: hidden;
+    margin-top: 10px;
   }
 
   .img {
     min-height: 100%;
+    margin-top: 4px;
   }
 
   .img1 {
     grid-area: img1;
-    margin-top: 13px;
   }
 
   .img2 {
     grid-area: img2;
-    padding-top: 13px;
-    padding-bottom: 6px;
   }
 
   .img3 {
@@ -342,7 +341,6 @@
 
   .img5 {
     grid-area: img5;
-    margin-top: 6px;
   }
 
   .footer::after {
@@ -370,7 +368,7 @@
   }
 
   .footer__title {
-    margin-top: 27%;
+    margin-top: 26%;
     margin-bottom: 30%;
   }
 
@@ -432,30 +430,12 @@
     padding-top: 83px;
   }
 
-  .img1 {
-    margin-top: 13px;
-  }
-
-  .img2 {
-    padding-bottom: 13px;
-    padding-top: 4px;
-  }
-
-  .img3 {
-    margin-top: 4px;
-  }
-
-  .img5 {
-    margin-top: 0;
-    padding-top: 1px;
-  }
-
   .footer::after {
     margin-top: calc(0% - 36px);
   }
 
   .footer::before {
-    margin-top: 7px;
+    margin-top: 1px;
   }
 
   .grid-button {

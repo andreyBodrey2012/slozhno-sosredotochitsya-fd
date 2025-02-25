@@ -6,8 +6,9 @@
 
 :root.theme-light {
   --rec: 0;
-  --hover-button: 
+  --hover-button: ;
   --color: #FF8DCB;
+  --color-text: #353430;
   --text-color-title: #FFC2E6;
   --cr-active-button: #353430;
   --image: url(/images/cover-image-light.png);

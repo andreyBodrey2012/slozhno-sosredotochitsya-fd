@@ -6,7 +6,7 @@
 
 :root.theme-light {
   --rec: 0;
-  --hover-button: ;
+  --hover-button: #32312D66;
   --color: #FF8DCB;
   --color-text: #353430;
   --text-color-title: #FFC2E6;

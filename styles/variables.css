@@ -1,13 +1,14 @@
 :root {
-  --rec: 0;
-  --hover-button: #32312D66;
-  --color: #FF8DCB;
-  --color-text: #353430;
-  --text-color-title: #FFC2E6;
-  --cr-active-button: #353430;
-  --image: url(/images/cover-image-light.png);
-  --text-color-head: #353430;
-  --text-color: #353430;
-  --color-button: #353430;
-  --text-backcolor-head: #FFF1F7;
+  --rec: 1;
+  --hover-button: #FF007066;
+  --color: #FF0070;
+  --color-text: #FF0070;
+  --color-button: #FF0070;
+  --cr-active-button: #FF0070;
+  --text-color-title: #DB00FF;
+  --image: url(/images/cover-image-dark.png);
+  --text-color-head: #000028;
+  --text-color: #F1B2CE;
+  --text-backcolor-head: #000028;
 }
+

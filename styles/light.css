@@ -11,7 +11,7 @@
   --color-text: #353430;
   --text-color-title: #FFC2E6;
   --cr-active-button: #353430;
-  --image: url(/images/cover-image-light.png);
+  --image: url(../images/cover-image-light.png);
   --text-color-head: #353430;
   --text-color: #353430;
   --color-button: #353430;
@@ -30,7 +30,7 @@
     --color-text: #353430;
     --text-color-title: #FFC2E6;
     --cr-active-button: #353430;
-    --image: url(/images/cover-image-light.png);
+    --image: url(../images/cover-image-light.png);
     --text-color-head: #353430;
     --text-color: #353430;
     --color-button: #353430;

@@ -117,10 +117,6 @@
 .header, main, .footer {
   padding: 10px;
 }
-main, .footer {
-  background-color: inherit;
-}
-
 
 .footer {
   position: relative;
